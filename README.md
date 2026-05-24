@@ -3,7 +3,7 @@
 <div align="center">
 
 
-### Full-Stack Developer | Building in Public
+### Full-Stack Web Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/austin-doughty-)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/AustinDoughty99)
