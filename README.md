@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/Adoughty51/Adoughty51/main/banner.png.png)
+![banner](https://raw.githubusercontent.com/Adoughty51/Adoughty51/main/Banner.png)
 
 <div align="center">
 
