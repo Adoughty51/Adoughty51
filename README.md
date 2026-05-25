@@ -16,7 +16,7 @@
 ### About Me
 
 Developer from California, I build full-stack web applications and am passionate about
-writing clean, purposeful code that solves real problems.
+writing clean code that solves real world problems.
 
 - 🔭 Currently building backend projects with Node, Express & MongoDB
 - 🌱 Sharpening fundamentals daily through Codewars kata
