@@ -41,7 +41,7 @@ writing clean, purposeful code that solves real problems.
     <td width="50%" valign="top">
       <h3 align="center">Sacramento Astronomy Group</h3>
       <p align="center">
-        <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/48cf4c82-9ce3-4fe3-ad14-1002f82a0748" />
+        <img width="400" height="250" alt="Image" src="https://github.com/user-attachments/assets/48cf4c82-9ce3-4fe3-ad14-1002f82a0748" />
       </p>
       <p align="center">
         NASA API project built for a local astronomy group. Pulls live data from 4 NASA APIs
