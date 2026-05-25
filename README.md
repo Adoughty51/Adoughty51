@@ -20,8 +20,6 @@ writing clean, purposeful code that solves real problems.
 
 - 🔭 Currently building backend projects with Node, Express & MongoDB
 - 🌱 Sharpening fundamentals daily through Codewars kata
-- 💼 Freelancing under **LoCal Dev** — building for local businesses
-- 🎯 Goal: Backend Engineer focused on scalable, purposeful software
 - ⚡ Fun fact: 600+ GitHub contributions and counting
 
 ### Tech Stack
