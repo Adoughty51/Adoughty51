@@ -59,6 +59,9 @@ writing clean, purposeful code that solves real problems.
     <td width="50%" valign="top">
       <h3 align="center">Daily Coding Challenges</h3>
       <p align="center">
+        <img width="400" height="250" alt="Image" src="https://github.com/user-attachments/assets/61e46bd5-9b85-44b3-9e9b-ae5f31db30be" />
+      </p>
+      <p align="center">
         Daily Codewars kata solutions pushed to GitHub, covering regex, array methods,
         and algorithm fundamentals.
       </p>
