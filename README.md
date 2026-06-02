@@ -18,7 +18,7 @@
 Developer from California, I build full-stack web applications and am passionate about
 writing clean code that solves real world problems.
 
-- 🔭 Currently building backend projects with Node, Express & MongoDB
+- 🔭 Currently building Full-stack projects with JavaScript, Node, Express & MongoDB
 - 🌱 Sharpening fundamentals daily through Codewars kata
 - ⚡ Fun fact: 600+ GitHub contributions and counting
 
