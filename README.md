@@ -73,19 +73,6 @@ writing clean code that solves real world problems.
   </tr>
 </table>
 
----
-
-### GitHub Stats
-
-<div align="center">
-
-![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adoughty51&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adoughty51&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
 
 
 <!--
