@@ -12,7 +12,7 @@
 
 ### About Me
 
-Developer from California, I build full-stack web applications and am passionate about writing clean code that solves real world problems.
+Built and shipped a full production e-commerce site for a local handmade wellness brand, custom order customization, Square payments, admin dashboard, all without a framework. Also built a NASA API project for a local astronomy group pulling live data from 4 NASA APIs with an animated star canvas background, and More! All projects are live and in use by real clients.
 
 - 🔭 Currently building Full-stack projects with JavaScript, Node, Express & MongoDB
 - 🌱 Sharpening fundamentals daily through Codewars kata
